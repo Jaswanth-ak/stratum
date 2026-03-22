@@ -1,10 +1,7 @@
-# ▲ Stratum — Enterprise Intelligence
+#  Stratum — Enterprise Intelligence
 
 > Query, compare, and analyze the public knowledge base of top MNCs across financial domains — powered by hybrid BM25 + semantic retrieval and local LLM inference.
 
-![Stratum Dashboard](assets/demo.png)
-
----
 
 ## What is Stratum?
 
