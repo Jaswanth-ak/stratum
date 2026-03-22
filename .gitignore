@@ -1,0 +1,9 @@
+ venv/
+.env
+stratum_db/
+__pycache__/
+*.pyc
+
+data/
+
+data/
